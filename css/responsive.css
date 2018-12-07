@@ -9,8 +9,10 @@
     .social-info-area {
         left: -160px;
     }
+    
+    calc(100% - 380px)
     .gallery_area {
-        height: auto;
+        height: 600;
         width: calc(100% - 180px);
         left: 120px;
         right: 60px;
