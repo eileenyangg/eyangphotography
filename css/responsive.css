@@ -10,7 +10,7 @@
         left: -160px;
     }
     .gallery_area {
-        height: calc(100% - 380px);
+        height: auto;
         width: calc(100% - 180px);
         left: 120px;
         right: 60px;
