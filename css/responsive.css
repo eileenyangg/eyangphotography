@@ -96,6 +96,15 @@
     .slide-text span {
         font-size: 60px;
     }
+    
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+    
+    
     .gallery_area {
         height: calc(100% - 380px);
         width: calc(100% - 130px);
